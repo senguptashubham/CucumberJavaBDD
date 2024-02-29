@@ -1,0 +1,7 @@
+<suit name="application parallel suite" verbose="2" parallel="classes" thread-count="4">
+    <test name="login page test">
+        <classes>
+            <class name="runner.TestRunner"/>
+        </classes>
+    </test>
+</suit>
